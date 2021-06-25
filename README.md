@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/48003055/123406374-77803b00-d5c8-11eb-9a1e-2c16e776ab26.png)
+
+
+
 # Nano React App Default Javascript Template
 
 The default template project for [nano-react-app](https://github.com/adrianmcli/nano-react-app).
